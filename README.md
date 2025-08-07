@@ -1,6 +1,6 @@
 # ARPMACSMASH
 #### ARPMACSMASH Locate all of your network connected devices.
-#### ARPMACSMASH is a simple and fast way to join an arp table and an mac table together. Both the arp and mac tables can be any format from any vendor. ARPMACSMASH also takes any mac address format including different formats on the two files you are joining. It takes about a second to join a enterprise campus sized arp and mac table. ARPMACSMASH creates a seperate entry for each MAC table entry which will create multiple ARPMAC entries if you are joining an arp table to a layer two networks mac table with multiple layers of L2 switches. You will need to determine the final connection point of a device.
+#### ARPMACSMASH is a simple and fast way to join an arp table and a mac table together. Both the arp and mac tables can be any format from any vendor. ARPMACSMASH also takes any mac address format including different formats on the two files you are joining. It takes about a second to join a enterprise campus sized arp and mac table. ARPMACSMASH creates a seperate entry for each MAC table entry which will create multiple ARPMAC entries if you are joining an arp table to a network with multiple layers of L2 switches. You will need to determine the final connection point of a device.
 
 #### USE CASE - Different layer three and layer two vendors. You may have a layer two switch network that connects to layer three firewalls. ARPMACSMASH will connect the two tables to help you inventory and located devices.
 
